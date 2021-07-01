@@ -16,4 +16,4 @@ def duplicate_zeros(self, arr):
             i = i + 2
         else:
             i = i + 1
-    return(self,arr)
+    print(self,arr)
