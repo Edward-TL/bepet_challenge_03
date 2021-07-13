@@ -20,3 +20,4 @@ class Solution:
                 arr.pop()
                 vol=False
                 z=0
+        return arr
